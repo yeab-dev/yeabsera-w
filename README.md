@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @yeab_dev
-- 👀 I’m a passionate mobile developer
+- 👋 Hi, I’m Yeabsera
+- 👀 I’m a passionate mobile app developer
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on opensource flutter projects
 - 😄 Pronouns: ... He/ Him
