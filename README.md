@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yeabsera
 - 👀 I’m a passionate mobile app developer
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning backend development using python-django
 - 💞️ I’m looking to collaborate on opensource flutter projects
 - 😄 Pronouns: ... He/ Him
 
